@@ -216,6 +216,8 @@
     <None Include="res\VIGUI.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_11.ico" />
+    <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_6.ico" />
     <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_8.ico" />
     <Image Include="res\VI_GUI.ico" />
   </ItemGroup>
