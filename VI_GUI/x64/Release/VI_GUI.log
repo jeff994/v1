@@ -1,9 +1,1 @@
-﻿  stdafx.cpp
-  TcpClient.cpp
-  Utility.cpp
-  VI_GUI.cpp
-  VI_GUIDlg.cpp
-  正在生成代码
-  All 2620 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  VI_GUI.vcxproj -> D:\github\v1\x64\Release\VI_GUI.exe
+﻿  VI_GUI.vcxproj -> D:\github\v1\x64\Release\VI_GUI.exe
