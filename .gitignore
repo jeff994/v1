@@ -1,8 +1,8 @@
 x64
 Debug
 packages
-VI_GUI\\x64
-VI_GUI\\Debug
+VI_GUI/x64
+VI_GUI/Debug
 .vs
 VI_GUI/x64/Release/VIGUI.res
 VI_GUI/x64/Release/VI_GUIDlg.obj
