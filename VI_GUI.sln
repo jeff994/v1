@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VI_GUI", "VI_GUI\VI_GUI.vcxproj", "{1C52F8AF-5E59-4731-9F9D-9102276C093E}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VI_GUI_SETUP", "Setup1\Setup1.vdproj", "{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,11 +21,6 @@ Global
 		{1C52F8AF-5E59-4731-9F9D-9102276C093E}.Release|x64.Build.0 = Release|x64
 		{1C52F8AF-5E59-4731-9F9D-9102276C093E}.Release|x86.ActiveCfg = Release|Win32
 		{1C52F8AF-5E59-4731-9F9D-9102276C093E}.Release|x86.Build.0 = Release|Win32
-		{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}.Debug|x64.ActiveCfg = Debug
-		{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}.Debug|x86.ActiveCfg = Debug
-		{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}.Release|x64.ActiveCfg = Release
-		{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}.Release|x64.Build.0 = Release
-		{4E1E3CC9-DA99-4376-B9DB-090D3AC08BF0}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
