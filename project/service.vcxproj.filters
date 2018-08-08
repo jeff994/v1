@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="XYZRobot\xyz_robot.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="XYZRobot\modbus.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="XYZRobot\utility.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="XYZRobot\JobManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="XYZRobot\modbus.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="XYZRobot\xyz_robot.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="XYZRobot\utility.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+    <ClInclude Include="XYZRobot\JobManager.h">
+      <Filter>Header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{eb4fdafd-758c-4253-b260-18199062f690}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{7ba8b6da-78f9-43e5-9214-b8306080c8f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CONFIG">
+      <UniqueIdentifier>{0927fcf2-fb5b-49ad-a095-2455a1923643}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="config.json">
+      <Filter>CONFIG</Filter>
+    </None>
+    <None Include="a_job_sample.jrq">
+      <Filter>CONFIG</Filter>
+    </None>
+    <None Include="a_drop_sample.jrq">
+      <Filter>CONFIG</Filter>
+    </None>
+  </ItemGroup>
+</Project>

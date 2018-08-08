@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/modbus.h
+string.h
+-
+iostream
+-
+sys/socket.h
+-
+netinet/in.h
+-
+unistd.h
+-
+
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/xyz_robot.cxx
+xyz_robot.h
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/xyz_robot.h
+
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/xyz_robot.h
+stdint.h
+-
+string
+-
+modbus.h
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/modbus.h
+

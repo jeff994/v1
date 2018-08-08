@@ -1,0 +1,70 @@
+{
+	"JobSteps": [
+		{
+			"desc": "Moved to front of pickup location",
+			"move": {
+				"x": 100,
+				"y": 100,
+				"z": 100
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "open"
+		},
+		{
+			"desc": "pickup",
+			"move": {
+				"x": 100,
+				"y": 100,
+				"z": 300
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "close"
+		},
+		{
+			"desc": "Backed from pickup location",
+			"move": {
+				"x": 100,
+				"y": 100,
+				"z": 100
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "NA"
+		},
+		{
+			"desc": "Moved to slot front",
+			"move": {
+				"x": 600,
+				"y": 600,
+				"z": 100
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "NA"
+		},
+		{
+			"desc": "Moved into slot",
+			"move": {
+				"x": 600,
+				"y": 600,
+				"z": 300
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "open"
+		},
+		{
+			"desc": "Moved out from slot",
+			"move": {
+				"x": 600,
+				"y": 600,
+				"z": 100
+			},
+			"status": 0,
+			"wait_time": 10,
+			"gripper": "NA"
+		}
+	]
+}

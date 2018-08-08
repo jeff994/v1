@@ -1,0 +1,8 @@
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/edit_cache.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/rebuild_cache.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/JobManager.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/RobotArm.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/xyz_robot.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/CMakeFiles/modbus.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/CMakeFiles/rebuild_cache.dir
+/Users/hujianbo/github/amps/Source/XYZrobot/Service/XYZRobot/CMakeFiles/edit_cache.dir
