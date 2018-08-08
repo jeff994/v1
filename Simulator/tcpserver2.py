@@ -12,7 +12,7 @@ pan = 0
 tilt = 0
 
 res_pan = 0 
-res_tilt = 0
+res_tilt = 0 
 
 sock.listen(1)
 
