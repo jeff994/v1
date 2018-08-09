@@ -55,11 +55,13 @@ while True:
 
             if(strData[0] == '!'):
                 strDataCommand = strData[1:]
-                lsCommand = strDataCommand.split(); 
-                if(lsCommand[1] == '1'): 
-                    res_pan = int(lsCommand[2])
-                if(lsCommand[1] == '2'):
-                    res_tilt = int(lsCommand[2]) 
+                lsCommand = strDataCommand.split()
+                print(lsCommand[0])
+                if(len(lsCommand) > 1):
+                    if(lsCommand[1] == '1'): 
+                        res_pan = int(lsCommand[2])
+                    if(lsCommand[1] == '2'):
+                        res_tilt = int(lsCommand[2]) 
             elif strData[0] == '?':
                 strDataCommand = strData[1:]
                 lsCommand = strDataCommand.split(); 
