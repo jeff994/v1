@@ -1,5 +1,5 @@
 {
   "robot_ip": "10.10.10.128",
-  "port_left": 9090,
-  "port_right":  9091 
+  "port_left": 9091,
+  "port_right":  9090 
 }

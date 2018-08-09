@@ -57,3 +57,8 @@ VI_GUI/x64/Release/VI_GUI.tlog/rc.read.1.tlog
 VI_GUI/x64/Release/VI_GUI.tlog/rc.write.1.tlog
 VI_GUI/x64/Release/VI_GUI.tlog/VI_GUI.write.1u.tlog
 VI_GUI/x64/Release/VI_GUIDlg.obj
+VI_GUI/x64/Release/TcpClient.obj
+VI_GUI/x64/Release/Utility.obj
+VI_GUI/x64/Release/vc141.pdb
+VI_GUI/x64/Release/VI_GUI.log
+*.obj

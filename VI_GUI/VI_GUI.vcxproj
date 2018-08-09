@@ -219,6 +219,8 @@
     <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_11.ico" />
     <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_6.ico" />
     <Image Include="C:\Users\DF-\Downloads\icon_512_icons\icon_512_Zc4_8.ico" />
+    <Image Include="res\hope.ico" />
+    <Image Include="res\hope1.ico" />
     <Image Include="res\VI_GUI.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,7 +1,7 @@
 ﻿  VI_GUIDlg.cpp
-  Generating code
-  1 of 2620 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+  正在生成代码
+  60 of 2625 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  VI_GUI.vcxproj -> C:\Users\jianbo.hu\Documents\github\v1\x64\Release\VI_GUI.exe
+    17 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  VI_GUI.vcxproj -> D:\github\v1\x64\Release\VI_GUI.exe
