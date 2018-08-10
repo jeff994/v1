@@ -2,8 +2,8 @@ import socket
 import time
 
 
-TCP_IP = '127.0.0.1'
-TCP_PORT = 9090
+TCP_IP = '10.10.10.128'
+TCP_PORT = 9091
 BUFFER_SIZE = 1024
 MESSAGE_ex = bytearray("!EX\r", 'ascii')
 MESSAGE_mg = bytearray("!MG\r", 'ascii')
