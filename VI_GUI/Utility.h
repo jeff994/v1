@@ -15,7 +15,8 @@ public:
 		std::string &sConfigPath,
 		std::string & sServer,
 		std::string & sPortLeft,
-		std::string & sPorRight
+		std::string & sPorRight,
+		bool & bRevesePan
 	);
 
 	static bool _SplitString(

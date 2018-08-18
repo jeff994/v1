@@ -1,5 +1,6 @@
 {
   "robot_ip": "localhost",
   "port_left": 9090,
-  "port_right":  9091 
+  "port_right":  9091, 
+  "reverse_pan": true
 }

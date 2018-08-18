@@ -29,7 +29,8 @@ bool Utility::_ReadConfigJson(
 	std::string &sConfigPath,
 	std::string &sServer,
 	std::string &sPortLeft,
-	std::string &sPorRight
+	std::string &sPorRight,
+	bool & bRevesePan
 	
 )
 {
@@ -42,6 +43,7 @@ bool Utility::_ReadConfigJson(
 	sServer = cfg.get<std::string>("robot_ip");
 	sPortLeft = cfg.get<std::string>("port_left");
 	sPorRight = cfg.get<std::string>("port_right");
+	bool bReveredPan = cfg.get<bool>("reverse_pan");
 	return true;
 }
 Utility::~Utility()
